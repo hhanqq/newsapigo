@@ -21,6 +21,9 @@ func main() {
 	//ServeMux - сопостовление url  с обработчиком запросов
 	mux := http.NewServeMux() // новый маршрутизатор
 
+	fs := http.FileServer(http.Dir("assets"))
+	mux.Handle("/assets/", http.StripPrefix("/assets/", fs))
+
 	mux.HandleFunc("/", indexHandler)
 	http.ListenAndServe(":"+port, mux)
 }
