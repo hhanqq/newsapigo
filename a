@@ -1,0 +1,29 @@
+[33mcommit 5c17e63a1c1012e0ac30264e70f692498cc6808b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: hhanqq <sdudnik05@mail.ru>
+Date:   Mon May 20 21:39:00 2024 +0700
+
+    Добавление функции air для того чтобы не перезапускать сервер при малейшем изменении, так же добавление переменной окружения порта
+
+[33mcommit 232f277bfbc927d89d31d869eca76e64a062f187[m
+Author: hhanqq <sdudnik05@mail.ru>
+Date:   Tue May 14 12:03:00 2024 +0700
+
+    Добавление стилей
+
+[33mcommit 6706302140959403f4d23b67af54dd9039e95550[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: hhanqq <sdudnik05@mail.ru>
+Date:   Thu Apr 25 17:26:01 2024 +0700
+
+    Добавление разметки в index.html и шаблона в main.go
+
+[33mcommit c7ddc733d897cba60b447c53f671eec2db6633e6[m[33m ([m[1;33mtag: v.0.0.1[m[33m)[m
+Author: hhanqq <sdudnik05@mail.ru>
+Date:   Thu Apr 25 15:56:49 2024 +0700
+
+    Добавление файла для разметки и стилей
+
+[33mcommit d2afc1049c8c6edcb4c462288ca4b73630379416[m
+Author: hhanqq <sdudnik05@mail.ru>
+Date:   Thu Apr 25 14:42:48 2024 +0700
+
+    Initial commit
