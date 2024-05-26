@@ -1,4 +1,4 @@
-module newsapigo
+module github.com/hhanqq/newsapigo
 
 go 1.21
 
